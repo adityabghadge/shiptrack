@@ -21,16 +21,13 @@ ShipTrack is a lightweight uptime monitoring service that runs HTTP checks again
 ```bash
 docker compose up -d --build
 
-## Screenshots
+## Demo Evidence
 
-### Slack Incident Alerts (OPEN → RESOLVED)
-Real-time Slack alerts are sent **only on incident state transitions** to avoid alert spam.
-
-![Slack Incident Alerts](docs/images/slack.png)
-
----
-
-### API Surface (Swagger / OpenAPI)
-Interactive REST API for monitors, checks, incidents, and summaries.
-
+### API Surface (Swagger)
 ![Swagger API](docs/images/swagger.png)
+
+### Incident Lifecycle (Slack Alerts)
+![Slack Alerts](docs/images/slack.png)
+
+### Load Test (100 On-Demand Checks)
+![100 Checks Summary](docs/images/tests.png)
