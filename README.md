@@ -61,7 +61,7 @@ Client / CLI
 ![Slack Alert](docs/images/slack.png)
 
 ### 100-Check Uptime & Latency Summary
-![100 Checks Summary](docs/images/100_checks.png)
+![100 Checks Summary](docs/images/tests.png)
 
 ---
 
