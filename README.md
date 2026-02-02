@@ -1,4 +1,4 @@
-# ShipTrack 🚢
+# ShipTrack 
 **Uptime Monitoring & Incident Alerting Backend (FastAPI, Postgres, Docker)**
 
 ShipTrack is a production-style backend system for monitoring HTTP endpoints, tracking uptime and latency, and managing **stateful incidents** with **Slack alerts** on meaningful transitions (OPEN → RESOLVED).  
